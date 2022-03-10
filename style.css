@@ -97,6 +97,7 @@ body {
 	border-bottom:none;
 	padding:10px 0 0 0;
 	width:100%;
+        text-align: center;
 }
 .container .user fieldset span {
 	border:2px solid rgba(208,208,208,0.6);
